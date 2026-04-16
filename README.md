@@ -57,7 +57,7 @@ Funciono melhor com uma boa playlist e um problema interessante para resolver.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ffd6e0?style=flat-square&logo=linkedin&logoColor=9b5e7a)](https://www.linkedin.com/in/sofia-hagio-29714b2a6/)
 &nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-e8d5f0?style=flat-square&logo=github&logoColor=6d4c7d)](https://github.com/SofiaHagio?tab=repositories)
+[![GitHub](https://img.shields.io/badge/GitHub-e8d5f0?style=flat-square&logo=github&logoColor=6d4c7d)](https://github.com/SofiaHagio)
 &nbsp;
 [![Email](https://img.shields.io/badge/email-ffc8dd?style=flat-square&logo=gmail&logoColor=9b5e7a)](mailto:sofia.hagio@gmail.com)
 
