@@ -29,12 +29,12 @@ Hoje, faço parte do time de tecnologia da Prefeitura de São Paulo, focada em t
 <div align="center">
 
 ![HTML](https://img.shields.io/badge/HTML-ffd6e0?style=flat-square&logo=html5&logoColor=9b5e7a)
-![CSS](https://img.shields.io/badge/CSS-e8d5f0?style=flat-square&logo=css3&logoColor=7c5c8a)
+![CSS](https://img.shields.io/badge/CSS-e8d5f0?style=flat-square&logo=css&logoColor=7c5c8a)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ffc8dd?style=flat-square&logo=javascript&logoColor=9b5e7a)
 ![Python](https://img.shields.io/badge/Python-d6e8ff?style=flat-square&logo=python&logoColor=5c7aaa)
 ![C](https://img.shields.io/badge/C-d8f0e8?style=flat-square&logo=c&logoColor=4a7c6b)
 ![Git](https://img.shields.io/badge/Git-ffe8d6?style=flat-square&logo=git&logoColor=c47a5a)
-![Canva](https://img.shields.io/badge/Canva-ffd6e0?style=flat-square&logo=canva&logoColor=9b5e7a)
+![Canva](https://img.shields.io/badge/Canva-ffd6e0?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj48cGF0aCBkPSJNMjU2IDBDMTE0LjYgMCAwIDExNC42IDAgMjU2czExNC42IDI1NiAyNTYgMjU2IDI1Ni0xMTQuNiAyNTYtMjU2UzM5Ny40IDAgMjU2IDB6IiBmaWxsPSIjOWI1ZTdhIi8+PC9zdmc+)
 ![Figma](https://img.shields.io/badge/Figma-e8d5f0?style=flat-square&logo=figma&logoColor=7c5c8a)
 
 </div>
@@ -59,9 +59,9 @@ Hoje, faço parte do time de tecnologia da Prefeitura de São Paulo, focada em t
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ffd6e0?style=flat-square&logo=linkedin&logoColor=9b5e7a)](https://www.linkedin.com/in/sofia-hagio-29714b2a6/)
 &nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-e8d5f0?style=flat-square&logo=github&logoColor=6d4c7d)](https://github.com/SofiaHagio)
-&nbsp;
 [![Instagram](https://img.shields.io/badge/Instagram-ffc8dd?style=flat-square&logo=instagram&logoColor=9b5e7a)](https://www.instagram.com/sofizsw/)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-e8d5f0?style=flat-square&logo=github&logoColor=6d4c7d)](https://github.com/SofiaHagio)
 &nbsp;
 [![Email](https://img.shields.io/badge/email-ffc8dd?style=flat-square&logo=gmail&logoColor=9b5e7a)](mailto:sofia.hagio@gmail.com)
 
