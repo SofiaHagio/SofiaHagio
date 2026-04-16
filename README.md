@@ -8,7 +8,7 @@
 
 <div align="center">
 
-software developer &nbsp;·&nbsp; JS / TS / Python &nbsp;·&nbsp; 🎧
+software developer &nbsp;·&nbsp; HTML / CSS / JS / Python / C &nbsp;·&nbsp; 🎧
 
 </div>
 
@@ -28,11 +28,11 @@ Funciono melhor com uma boa playlist e um problema interessante para resolver.
 
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-ffd6e0?style=flat-square&logo=javascript&logoColor=9b5e7a)
-![TypeScript](https://img.shields.io/badge/TypeScript-e8d5f0?style=flat-square&logo=typescript&logoColor=7c5c8a)
-![Python](https://img.shields.io/badge/Python-ffc8dd?style=flat-square&logo=python&logoColor=9b5e7a)
-![React](https://img.shields.io/badge/React-d6e8ff?style=flat-square&logo=react&logoColor=5c7aaa)
-![Node.js](https://img.shields.io/badge/Node.js-d8f0e8?style=flat-square&logo=nodedotjs&logoColor=4a7c6b)
+![HTML](https://img.shields.io/badge/HTML-ffd6e0?style=flat-square&logo=html5&logoColor=9b5e7a)
+![CSS](https://img.shields.io/badge/CSS-e8d5f0?style=flat-square&logo=css3&logoColor=7c5c8a)
+![JavaScript](https://img.shields.io/badge/JavaScript-ffc8dd?style=flat-square&logo=javascript&logoColor=9b5e7a)
+![Python](https://img.shields.io/badge/Python-d6e8ff?style=flat-square&logo=python&logoColor=5c7aaa)
+![C](https://img.shields.io/badge/C-d8f0e8?style=flat-square&logo=c&logoColor=4a7c6b)
 ![Git](https://img.shields.io/badge/Git-ffe8d6?style=flat-square&logo=git&logoColor=c47a5a)
 
 </div>
@@ -55,16 +55,12 @@ Funciono melhor com uma boa playlist e um problema interessante para resolver.
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ffd6e0?style=flat-square&logo=linkedin&logoColor=9b5e7a)](https://linkedin.com/in/sofiahagio)
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-ffd6e0?style=flat-square&logo=linkedin&logoColor=9b5e7a)](https://linkedin.com/in/sofiahagio](https://www.linkedin.com/in/sofia-hagio-29714b2a6/))
 &nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-e8d5f0?style=flat-square&logo=github&logoColor=6d4c7d)](https://github.com/sofiahagio)
+[![GitHub]([https://img.shields.io/badge/GitHub-e8d5f0?style=flat-square&logo=github&logoColor=6d4c7d](https://github.com/SofiaHagio?tab=repositories))](https://github.com/sofiahagio)
 &nbsp;
-[![Email](https://img.shields.io/badge/email-ffc8dd?style=flat-square&logo=gmail&logoColor=9b5e7a)](mailto:sofia@email.com)
+[![Email](https://img.shields.io/badge/email-ffc8dd?style=flat-square&logo=gmail&logoColor=9b5e7a)](mailto:sofia.hagio@gmail.com)
 
 </div>
 
 <br/>
-
-<div align="center">
-<sub>construindo uma linha de cada vez 🌸</sub>
-</div>
