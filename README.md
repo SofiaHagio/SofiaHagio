@@ -55,9 +55,9 @@ Funciono melhor com uma boa playlist e um problema interessante para resolver.
 
 <div align="center">
 
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-ffd6e0?style=flat-square&logo=linkedin&logoColor=9b5e7a)](https://linkedin.com/in/sofiahagio](https://www.linkedin.com/in/sofia-hagio-29714b2a6/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ffd6e0?style=flat-square&logo=linkedin&logoColor=9b5e7a)](https://www.linkedin.com/in/sofia-hagio-29714b2a6/)
 &nbsp;
-[![GitHub]([https://img.shields.io/badge/GitHub-e8d5f0?style=flat-square&logo=github&logoColor=6d4c7d](https://github.com/SofiaHagio?tab=repositories))](https://github.com/sofiahagio)
+[![GitHub](https://img.shields.io/badge/GitHub-e8d5f0?style=flat-square&logo=github&logoColor=6d4c7d)](https://github.com/SofiaHagio?tab=repositories)
 &nbsp;
 [![Email](https://img.shields.io/badge/email-ffc8dd?style=flat-square&logo=gmail&logoColor=9b5e7a)](mailto:sofia.hagio@gmail.com)
 
