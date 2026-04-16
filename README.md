@@ -50,7 +50,7 @@ Hoje, faço parte do time de tecnologia da Prefeitura de São Paulo, focada em t
 
 ---
 
-### onde me encontrar
+### redes sociais 
 
 <div align="center">
 
