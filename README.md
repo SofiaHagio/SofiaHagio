@@ -33,9 +33,9 @@ Hoje, faço parte do time de tecnologia da Prefeitura de São Paulo, focada em t
 ![JavaScript](https://img.shields.io/badge/JavaScript-ffc8dd?style=flat-square&logo=javascript&logoColor=9b5e7a)
 ![Python](https://img.shields.io/badge/Python-d6e8ff?style=flat-square&logo=python&logoColor=5c7aaa)
 ![C](https://img.shields.io/badge/C-d8f0e8?style=flat-square&logo=c&logoColor=4a7c6b)
+![Figma](https://img.shields.io/badge/Figma-e8d5f0?style=flat-square&logo=figma&logoColor=7c5c8a)
 ![Git](https://img.shields.io/badge/Git-ffe8d6?style=flat-square&logo=git&logoColor=c47a5a)
 ![Canva](https://img.shields.io/badge/Canva-ffd6e0?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj48cGF0aCBkPSJNMjU2IDBDMTE0LjYgMCAwIDExNC42IDAgMjU2czExNC42IDI1NiAyNTYgMjU2IDI1Ni0xMTQuNiAyNTYtMjU2UzM5Ny40IDAgMjU2IDB6IiBmaWxsPSIjOWI1ZTdhIi8+PC9zdmc+)
-![Figma](https://img.shields.io/badge/Figma-e8d5f0?style=flat-square&logo=figma&logoColor=7c5c8a)
 
 </div>
 
