@@ -34,6 +34,8 @@ Hoje, faço parte do time de tecnologia da Prefeitura de São Paulo, focada em t
 ![Python](https://img.shields.io/badge/Python-d6e8ff?style=flat-square&logo=python&logoColor=5c7aaa)
 ![C](https://img.shields.io/badge/C-d8f0e8?style=flat-square&logo=c&logoColor=4a7c6b)
 ![Git](https://img.shields.io/badge/Git-ffe8d6?style=flat-square&logo=git&logoColor=c47a5a)
+![Canva](https://img.shields.io/badge/Canva-ffd6e0?style=flat-square&logo=canva&logoColor=9b5e7a)
+![Figma](https://img.shields.io/badge/Figma-e8d5f0?style=flat-square&logo=figma&logoColor=7c5c8a)
 
 </div>
 
@@ -58,6 +60,8 @@ Hoje, faço parte do time de tecnologia da Prefeitura de São Paulo, focada em t
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ffd6e0?style=flat-square&logo=linkedin&logoColor=9b5e7a)](https://www.linkedin.com/in/sofia-hagio-29714b2a6/)
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-e8d5f0?style=flat-square&logo=github&logoColor=6d4c7d)](https://github.com/SofiaHagio)
+&nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-ffc8dd?style=flat-square&logo=instagram&logoColor=9b5e7a)](https://www.instagram.com/sofizsw/)
 &nbsp;
 [![Email](https://img.shields.io/badge/email-ffc8dd?style=flat-square&logo=gmail&logoColor=9b5e7a)](mailto:sofia.hagio@gmail.com)
 
