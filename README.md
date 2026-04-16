@@ -51,7 +51,7 @@ Hoje, faço parte do time de tecnologia da Prefeitura de São Paulo, focada em t
 
 ---
 
-### redes sociais 
+### sociais 
 
 <div align="center">
 
@@ -59,7 +59,7 @@ Hoje, faço parte do time de tecnologia da Prefeitura de São Paulo, focada em t
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-e8d5f0?style=flat-square&logo=github&logoColor=6d4c7d)](https://github.com/SofiaHagio)
 &nbsp;
-[![Email](https://img.shields.io/badge/email-ffc8dd?style=flat-square&logo=gmail&logoColor=9b5e7a)](mailto:sofia.hagio@gmail.com?subject=Contato&body=Olá,%20tudo%20bem?)
+[![Email](https://img.shields.io/badge/email-ffc8dd?style=flat-square&logo=gmail&logoColor=9b5e7a)](mailto:sofia.hagio@gmail.com)
 
 </div>
 
