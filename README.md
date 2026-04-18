@@ -56,7 +56,7 @@ Hoje, faço parte do time de tecnologia da Prefeitura de São Paulo, focada em t
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ffd6e0?style=flat-square&logo=linkedin&logoColor=9b5e7a)]((https://www.linkedin.com/in/sofiahagio/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ffd6e0?style=flat-square&logo=linkedin&logoColor=9b5e7a)](https://www.linkedin.com/in/sofiahagio/)
 &nbsp;
 [![Instagram](https://img.shields.io/badge/Instagram-ffc8dd?style=flat-square&logo=instagram&logoColor=9b5e7a)](https://www.instagram.com/sofizsw/)
 &nbsp;
