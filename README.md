@@ -8,7 +8,7 @@
 
 <div align="center">
 
-software developer &nbsp;·&nbsp; HTML / CSS / JS / Python &nbsp;·&nbsp; 🎧
+software developer &nbsp;·&nbsp; HTML / CSS / JS / Python / C++ &nbsp;·&nbsp; 🎧
 
 </div>
 
