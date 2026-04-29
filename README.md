@@ -14,8 +14,6 @@ software developer &nbsp;·&nbsp; HTML / CSS / JS / Python / C++ &nbsp;·&nbsp; 
 
 </div>
 
-<br/>
-
 ---
 
 ### sobre mim
