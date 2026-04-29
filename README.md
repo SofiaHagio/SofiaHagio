@@ -8,7 +8,7 @@
 
 <div align="center">
 
-software developer 🎧 &nbsp; [<img src="https://capsule-render.vercel.app/api?type=soft&color=00000000&height=20&text=portfólio&fontSize=14&fontColor=f7a8d0&animation=fadeIn" />](https://portifolio-jenyvesjih.vercel.app/)
+software developer 🎧 &nbsp; [portfólio](https://portifolio-jenyvesjih.vercel.app/)
 
 </div>
 
