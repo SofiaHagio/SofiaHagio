@@ -8,9 +8,7 @@
 
 <div align="center">
 
-software developer 🎧 
-
-[![portfólio](https://img.shields.io/badge/%20portfólio-ffd6e0?style=for-the-badge&logoColor=9b5e7a)](https://portifolio-jenyvesjih.vercel.app/)
+software developer 🎧 [![portfólio](https://img.shields.io/badge/%20portfólio-ffd6e0?style=for-the-badge&logoColor=9b5e7a)](https://portifolio-jenyvesjih.vercel.app/)
 
 </div>
 
