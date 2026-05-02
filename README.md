@@ -44,10 +44,10 @@ Hoje, faço parte do time de tecnologia da Prefeitura de São Paulo, focada em t
 ### estatísticas
 
 <div align="center">
-
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=sofiahagio&show_icons=true&hide_border=true&bg_color=0d1117&title_color=c47a8a&icon_color=dba8c0&text_color=7a5c6a&ring_color=f4a7bb&hide_title=true" />
+ 
+<img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sofiahagio&show_icons=true&hide_border=true&bg_color=00000000&title_color=c47a8a&icon_color=dba8c0&text_color=7a5c6a&ring_color=f4a7bb&hide_title=true" />
 &nbsp;
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sofiahagio&layout=compact&hide_border=true&bg_color=0d1117&title_color=c47a8a&text_color=7a5c6a&hide_title=true" />
+<img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sofiahagio&layout=compact&hide_border=true&bg_color=00000000&title_color=c47a8a&text_color=7a5c6a&hide_title=true" />
 
 </div>
 
