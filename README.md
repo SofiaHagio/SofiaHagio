@@ -20,8 +20,6 @@ software developer &nbsp;·&nbsp; HTML / CSS / JS / Python / C++ &nbsp;·&nbsp; 
 
 Minha trajetória começou no Ensino Médio Técnico em Informática no SENAC SP e segue agora com a graduação em Engenharia de Software na FIAP. 
 
-Hoje, faço parte do time de tecnologia da Prefeitura de São Paulo, focada em transformar desafios em soluções digitais.
-
 ---
  
 ### tecnologias
