@@ -18,7 +18,9 @@ software developer &nbsp;·&nbsp; HTML / CSS / JS / Python / C++ &nbsp;·&nbsp; 
 
 ### sobre mim
 
-Minha trajetória começou no Ensino Médio Técnico em Informática no SENAC SP e segue agora com a graduação em Engenharia de Software na FIAP. 
+Estudante de Engenharia de Software na FIAP, com formação técnica em Informática pelo SENAC-SP. 
+Atualmente atuo como estagiária de TI no Grupo 3 Corações e possuo experiência anterior na Prefeitura. 
+Apaixonada por tecnologia, desenvolvimento de software e aprendizado contínuo.
 
 ---
  
