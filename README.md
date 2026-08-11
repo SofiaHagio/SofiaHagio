@@ -48,9 +48,7 @@ Apaixonada por tecnologia, desenvolvimento de software e aprendizado contínuo.
 <img height="150" src="https://github-readme-stats-eight-beta-yh40j8x58l.vercel.app/api?username=sofiahagio&show_icons=true&hide_border=true&bg_color=00000000&title_color=c47a8a&icon_color=dba8c0&text_color=7a5c6a&ring_color=f4a7bb&hide_title=true" />
 &nbsp;
 <img height="150" src="https://github-readme-stats-eight-beta-yh40j8x58l.vercel.app/api/top-langs/?username=sofiahagio&layout=compact&hide_border=true&bg_color=00000000&title_color=c47a8a&text_color=7a5c6a&hide_title=true" />
-
 <br/>
-
 <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=sofiahagio&hide_border=true&background=00000000&ring=f4a7bb&fire=c47a8a&currStreakLabel=7a5c6a&sideLabels=7a5c6a&currStreakNum=7a5c6a&sideNums=7a5c6a&dates=9b5e7a" />
 
 </div>
